@@ -5,7 +5,7 @@
 
 - I'm currently working on **Personal Portfolio**
 - I'm currently learning **Supabase, Python, Framer Motion**
-- All of my projects are available at [your-portfolio-link](https://thevivekrajput-techportfolio.vercel.app/)
+- All of my projects are available at [Vivek Rajput](https://thevivekrajput-techportfolio.vercel.app/)
 - How to reach me: **work.tvivekrajput@gmail.com**
 - **I love blending design with code**
 
