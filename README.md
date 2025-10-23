@@ -1,19 +1,19 @@
-# Hi 👋, I'm Vivek Rajput
+# I'm Vivek Rajput
+## Designer & Developer
 
 ## A passionate Frontend Developer and UI/UX Designer
 
-- 🔭 I'm currently working on **Personal Portfolio**
-- 🌱 I'm currently learning **React, Framer Motion, Advanced CSS**
-- 👨‍💻 All of my projects are available at [your-portfolio-link](https://your-portfolio.com)
-- 💬 Ask me about **React, JavaScript, UI/UX Design**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I love blending design with code**
+- I'm currently working on **Personal Portfolio**
+- I'm currently learning **Supabase, Python, Framer Motion**
+- All of my projects are available at [your-portfolio-link](https://thevivekrajput-techportfolio.vercel.app/)
+- How to reach me: **work.tvivekrajput@gmail.com**
+- **I love blending design with code**
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-<a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vivek-rajput-tvr002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
+<a href="https://x.com/tvr002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" /></a>
+<a href="https://www.instagram.com/tvr002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
