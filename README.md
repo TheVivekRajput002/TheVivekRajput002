@@ -4,10 +4,10 @@
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React.js-Advanced-61DAFB?logo=react&logoColor=black" alt="React.js Badge"/>
+  <img src="https://img.shields.io/badge/React.js-Intermediate-61DAFB?logo=react&logoColor=black" alt="React.js Badge"/>
   <img src="https://img.shields.io/badge/Next.js-Advanced-black?logo=next.js&logoColor=white" alt="Next.js Badge"/>
-  <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?logo=python&logoColor=white" alt="Python Badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
   <img src="https://img.shields.io/badge/Supabase-Intermediate-3FCF8E?logo=supabase&logoColor=white" alt="Supabase Badge"/>
   <img src="https://img.shields.io/badge/MongoDB-Intermediate-47A248?logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
@@ -36,16 +36,17 @@
 ---
 
 ### 🔧 Skills & Tools
-<div>
-  <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/-Pandas-lightgrey?logo=pandas&logoColor=black" alt="Pandas Badge"/>
-  <img src="https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white" alt="NumPy Badge"/>
-  <img src="https://img.shields.io/badge/-Matplotlib-brightgreen?logo=plotly&logoColor=white" alt="Matplotlib Badge"/>
-  <img src="https://img.shields.io/badge/-Seaborn-orange?logo=python&logoColor=white" alt="Seaborn Badge"/>
-  <img src="https://img.shields.io/badge/-SQL-green?logo=mysql&logoColor=white" alt="SQL Badge"/>
-  <img src="https://img.shields.io/badge/-PowerBI-yellow?logo=powerbi&logoColor=black" alt="Power BI Badge"/>
-  <img src="https://img.shields.io/badge/-BeautifulSoup-lightblue?logo=python&logoColor=white" alt="BeautifulSoup Badge"/>
+<div align="center">
+  <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black" alt="React.js Badge"/>
+  <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white" alt="Next.js Badge"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase Badge"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" alt="Figma Badge"/>
 </div>
+
 
 ---
 
