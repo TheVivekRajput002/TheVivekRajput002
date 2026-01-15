@@ -1,33 +1,84 @@
-# I'm Vivek Rajput
-## Designer & Developer
+<h1 align="center">👋 Hi, I'm Vivek Rajput</h1>
+<h3 align="center">🚀 Fullstack Developer | Aspiring Product Manager </h3>
 
-## A passionate Frontend Developer and UI/UX Designer
+---
 
-- I'm currently working on **Personal Portfolio**
-- I'm currently learning **Supabase, Python, Framer Motion**
-- All of my projects are available at [Portfolio](https://thevivekrajput-techportfolio.vercel.app/)
-- How to reach me: **work.tvivekrajput@gmail.com**
-- **I love blending design with code**
+<div align="center">
+  <img src="https://img.shields.io/badge/React.js-Advanced-61DAFB?logo=react&logoColor=black" alt="React.js Badge"/>
+  <img src="https://img.shields.io/badge/Next.js-Advanced-black?logo=next.js&logoColor=white" alt="Next.js Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Intermediate-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+  <img src="https://img.shields.io/badge/Supabase-Intermediate-3FCF8E?logo=supabase&logoColor=white" alt="Supabase Badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-Intermediate-47A248?logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+</div>
 
-## Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/vivek-rajput-tvr002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="25" width="25" /></a>
-<a href="https://x.com/tvr002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="25" width="35" /></a>
-<a href="https://www.instagram.com/tvr002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="25" width="35" /></a>
-</p>
 
-## Languages and Tools:
-<p align="left">
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
+---
 
-## GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVivekRajput002&show_icons=true&theme=radical)
+### 📫 Connect with Me:
+<div>
+  <a href="mailto:work.tvivekrajput@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://www.linkedin.com/in/thevivekrajput002/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://github.com/TheVivekRajput002" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge"/></a>
+</div>
+
+---
+
+### 🌟 About Me
+- 🎓 **B.Tech in Information Technology**  
+  from Jabalpur Engineering College, Jabalpur (M.P.) 
+- 🏆 **Achievements:**
+  - 🥇 Wrote **2500+ lines of code** across various projects.  
+  - 🏅 Selected in **HackWithUttarPradesh** by Chandigarh University.    
+- 🔍 Passionate about **Web Development with AI Features**, **Generative Ai**, and creating real life applicable projects.
+
+---
+
+### 🔧 Skills & Tools
+<div>
+  <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/-Pandas-lightgrey?logo=pandas&logoColor=black" alt="Pandas Badge"/>
+  <img src="https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white" alt="NumPy Badge"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-brightgreen?logo=plotly&logoColor=white" alt="Matplotlib Badge"/>
+  <img src="https://img.shields.io/badge/-Seaborn-orange?logo=python&logoColor=white" alt="Seaborn Badge"/>
+  <img src="https://img.shields.io/badge/-SQL-green?logo=mysql&logoColor=white" alt="SQL Badge"/>
+  <img src="https://img.shields.io/badge/-PowerBI-yellow?logo=powerbi&logoColor=black" alt="Power BI Badge"/>
+  <img src="https://img.shields.io/badge/-BeautifulSoup-lightblue?logo=python&logoColor=white" alt="BeautifulSoup Badge"/>
+</div>
+
+---
+
+### 📂 Featured Projects
+#### 🧾 Smart Invoice & E-way bill System with Ai Integration
+- **Description:** Developed a E-way Bill generation system for product based businesses that increased their productivity by 40%.  
+- **Highlights:** Auto Product search from the inventory, AI scanning of the vendor bills automatically updating their inventory, auto sending for inovice order bills of low stock items.  
+- **Source Code:** [Smart Invoice System](https://github.com/TheVivekRajput002/HisabKitab)
+
+#### 👨🏻‍🏫 Workshop Planning Platform
+- **Description:** Conducting Sessions and Workshops became easy, such enter the details and boom!
+- **Highlights:** Built real time dashboards showcasing registered workshops, reviews, and project submission page.  
+- **Source Code:** [Workshop Planning Platform](https://github.com/TheVivekRajput002/summerschoolFrontendLearning)
+
+---
+
+### 💼 Work Experience
+#### 📊 Fullstack Developer Intern | Goal10x (Dec 2024 – Present)  
+- --------------------.  
+
+#### 🐍 Python Developer Intern | InternPe (May 2023 – July 2023)  
+- Developed Python-based projects, including a Flappy Bird game, showcasing problem-solving skills.  
+- Collaborated with remote teams to implement practical software solutions.
+
+---
+
+### 🏅 Certifications
+- **A 8 week Course on React.js** - GeeksForGeeks (July 2024 - Oct 2024)  
+- **National Entrepreneurship Challenge - Advance Track** - E-Cell IIT Bombay (April 2024 - Dec 2024)
+
+---
+
+### 📊 Let's Collaborate!
+I'm eager to collaborate on exciting projects in **Web Development**, **Product Building**, and **Ui Ux Design**.  
+Feel free to connect for collaboration, mentorship, or career opportunities.  
+
