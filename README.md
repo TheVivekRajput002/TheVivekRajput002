@@ -68,12 +68,9 @@
 ---
 
 ### 💼 Work Experience
-#### 📊 Fullstack Developer Intern | Goal10x (Dec 2024 – Present)  
+#### 📊 Fullstack Developer Intern | Shiv Shakti Automobiles (Dec 2024 – Present)  
 - --------------------.  
 
-#### 🐍 Python Developer Intern | InternPe (May 2023 – July 2023)  
-- Developed Python-based projects, including a Flappy Bird game, showcasing problem-solving skills.  
-- Collaborated with remote teams to implement practical software solutions.
 
 ---
 
