@@ -40,24 +40,6 @@
 ---
 
 ### 🔧 Skills & Tools
-<div align="center">
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black" alt="React.js Badge"/>
-  <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white" alt="Next.js Badge"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript Badge"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
-  <img src="https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white" alt="Supabase Badge"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white" alt="Figma Badge"/>
-</div>
-
----
-
-## 🚀 Tech Stack
-
----
-
-## 🚀 Tech Stack
 
 | **Category** | **Technologies** |
 | :--- | :--- |
