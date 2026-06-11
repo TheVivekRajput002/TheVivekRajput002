@@ -3,7 +3,7 @@
 
 <p align="center">
   🌐 Portfolio: 
-  <a href="https://thevivekrajput-techportfolio.vercel.app/" target="_blank">
+  <a href="https://www.thevivekrajput.in" target="_blank">
     Portfolio
   </a>
 </p>
