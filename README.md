@@ -13,7 +13,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-Advanced-black?logo=next.js&logoColor=white" alt="Next.js Badge"/>
-  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-Medium-3178C6?logo=typescript&logoColor=white" alt="TypeScript Badge"/>
   <img src="https://img.shields.io/badge/Node.js-Advanced-43853D?logo=node.js&logoColor=white" alt="Node.js Badge"/>
 </div>
 
