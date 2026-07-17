@@ -94,9 +94,18 @@
 
 ---
 
-### 🏅 Certifications
-- **A 8 week Course on React.js** - GeeksForGeeks (July 2024 - Oct 2024)  
-- **National Entrepreneurship Challenge - Advance Track** - E-Cell IIT Bombay (April 2024 - Dec 2024)
+### 🏅 Achievements & Certifications
+
+- **2nd Place – Eightfold.ai Hackathon, Techkriti'26 (IIT Kanpur)** *(March 2026)*
+  - Secured **2nd position** among competing teams at Techkriti, IIT Kanpur, one of Asia's largest technical festivals.
+  - Led the development of a **GitHub-based developer evaluation platform** that analyzes technical skills, coding activity, candidate-job fit, and performance insights beyond traditional resumes.
+  - Awarded **₹50,000 prize money**.
+
+- **National Entrepreneurship Challenge (Advanced Track)** – E-Cell IIT Bombay *(2024–2025)*
+  - Successfully completed the Advanced Track program focused on entrepreneurship, business strategy, and startup development.
+
+- **React.js Course (8 Weeks)** – GeeksforGeeks *(July 2024 – Oct 2024)*
+  - Completed hands-on training covering React fundamentals, components, hooks, state management, and frontend development.
 
 ---
 
